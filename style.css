@@ -1,0 +1,29 @@
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+button, #submit {
+    border: none;
+    background: cadetblue;
+    color: white;
+    padding: 2px 10px;
+    margin: 3px;
+}
+
+label, input {
+    display: block;
+    padding: 5px;
+}
+
+#gifs {
+    float: left;
+    width: 65%;
+}
+
+#add {
+    float: right; 
+}
+
+#animal {
+    width: 300px;
+}
